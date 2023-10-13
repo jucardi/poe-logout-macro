@@ -1,0 +1,5859 @@
+==================================================
+Process Name      : Agile1pAgent.exe
+Process ID        : 17984
+Protocol          : TCP
+Local Port        : 6263
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : C:\Program Files (x86)\1Password 4\Agile1pAgent.exe
+Product Name      : 1Password
+File Description  : 1Password
+File Version      : 4.2.0.548
+Company           : AgileBits
+Process Created On: 9/17/2023 3:26:29 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Agile1pAgent.exe
+Process ID        : 17984
+Protocol          : TCP
+Local Port        : 6263
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 51320
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : C:\Program Files (x86)\1Password 4\Agile1pAgent.exe
+Product Name      : 1Password
+File Description  : 1Password
+File Version      : 4.2.0.548
+Company           : AgileBits
+Process Created On: 9/17/2023 3:26:29 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Agile1pAgent.exe
+Process ID        : 17984
+Protocol          : TCP
+Local Port        : 6258
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : C:\Program Files (x86)\1Password 4\Agile1pAgent.exe
+Product Name      : 1Password
+File Description  : 1Password
+File Version      : 4.2.0.548
+Company           : AgileBits
+Process Created On: 9/17/2023 3:26:29 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : CefSharp.BrowserSubprocess.exe
+Process ID        : 8092
+Protocol          : TCP
+Local Port        : 50902
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+Product Name      : CefSharp
+File Description  : CefSharp.BrowserSubprocess
+File Version      : 110.0.300.0
+Company           : The CefSharp Authors
+Process Created On: 9/17/2023 3:26:18 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Discord.exe
+Process ID        : 13592
+Protocol          : TCP
+Local Port        : 6463
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : C:\Users\me\AppData\Local\Discord\app-1.0.9017\Discord.exe
+Product Name      : Discord
+File Description  : Discord
+File Version      : 1.0.9017
+Company           : Discord Inc.
+Process Created On: 9/17/2023 3:26:16 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Discord.exe
+Process ID        : 69852
+Protocol          : TCP
+Local Port        : 51085
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 6463
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : C:\Users\me\AppData\Local\Discord\app-1.0.9017\Discord.exe
+Product Name      : Discord
+File Description  : Discord
+File Version      : 1.0.9017
+Company           : Discord Inc.
+Process Created On: 10/13/2023 2:59:41 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Discord.exe
+Process ID        : 13300
+Protocol          : TCP
+Local Port        : 51300
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Established
+Process Path      : C:\Users\me\AppData\Local\Discord\app-1.0.9017\Discord.exe
+Product Name      : Discord
+File Description  : Discord
+File Version      : 1.0.9017
+Company           : Discord Inc.
+Process Created On: 9/17/2023 3:26:15 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Discord.exe
+Process ID        : 13592
+Protocol          : TCP
+Local Port        : 6463
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 51085
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : C:\Users\me\AppData\Local\Discord\app-1.0.9017\Discord.exe
+Product Name      : Discord
+File Description  : Discord
+File Version      : 1.0.9017
+Company           : Discord Inc.
+Process Created On: 9/17/2023 3:26:16 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : NVIDIA Web Helper.exe
+Process ID        : 9204
+Protocol          : TCP
+Local Port        : 50785
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 50990
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : C:\Program Files (x86)\NVIDIA Corporation\NvNode\NVIDIA Web Helper.exe
+Product Name      : Node.js
+File Description  : NVIDIA Web Helper Service
+File Version      : 11.13.0
+Company           : Node.js
+Process Created On: 9/17/2023 3:28:24 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : NVIDIA Web Helper.exe
+Process ID        : 9204
+Protocol          : TCP
+Local Port        : 50785
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 54292
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Fin Wait 2
+Process Path      : C:\Program Files (x86)\NVIDIA Corporation\NvNode\NVIDIA Web Helper.exe
+Product Name      : Node.js
+File Description  : NVIDIA Web Helper Service
+File Version      : 11.13.0
+Company           : Node.js
+Process Created On: 9/17/2023 3:28:24 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : NVIDIA Web Helper.exe
+Process ID        : 9204
+Protocol          : TCP
+Local Port        : 50785
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : C:\Program Files (x86)\NVIDIA Corporation\NvNode\NVIDIA Web Helper.exe
+Product Name      : Node.js
+File Description  : NVIDIA Web Helper Service
+File Version      : 11.13.0
+Company           : Node.js
+Process Created On: 9/17/2023 3:28:24 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : NVIDIA Web Helper.exe
+Process ID        : 9204
+Protocol          : UDP
+Local Port        : 10010
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : C:\Program Files (x86)\NVIDIA Corporation\NvNode\NVIDIA Web Helper.exe
+Product Name      : Node.js
+File Description  : NVIDIA Web Helper Service
+File Version      : 11.13.0
+Company           : Node.js
+Process Created On: 9/17/2023 3:28:24 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse 3.exe
+Process ID        : 14128
+Protocol          : TCP
+Local Port        : 49911
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3.exe
+Product Name      : Razer Synapse 3
+File Description  : Razer Synapse 3
+File Version      : 3.1.627.5
+Company           : Razer Inc.
+Process Created On: 9/17/2023 3:26:17 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse 3.exe
+Process ID        : 14128
+Protocol          : TCP
+Local Port        : 49915
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3.exe
+Product Name      : Razer Synapse 3
+File Description  : Razer Synapse 3
+File Version      : 3.1.627.5
+Company           : Razer Inc.
+Process Created On: 9/17/2023 3:26:17 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse 3.exe
+Process ID        : 14128
+Protocol          : TCP
+Local Port        : 49916
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3.exe
+Product Name      : Razer Synapse 3
+File Description  : Razer Synapse 3
+File Version      : 3.1.627.5
+Company           : Razer Inc.
+Process Created On: 9/17/2023 3:26:17 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse 3.exe
+Process ID        : 14128
+Protocol          : TCP
+Local Port        : 49922
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3.exe
+Product Name      : Razer Synapse 3
+File Description  : Razer Synapse 3
+File Version      : 3.1.627.5
+Company           : Razer Inc.
+Process Created On: 9/17/2023 3:26:17 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse 3.exe
+Process ID        : 14128
+Protocol          : TCP
+Local Port        : 49925
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3.exe
+Product Name      : Razer Synapse 3
+File Description  : Razer Synapse 3
+File Version      : 3.1.627.5
+Company           : Razer Inc.
+Process Created On: 9/17/2023 3:26:17 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse 3.exe
+Process ID        : 14128
+Protocol          : TCP
+Local Port        : 49800
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3.exe
+Product Name      : Razer Synapse 3
+File Description  : Razer Synapse 3
+File Version      : 3.1.627.5
+Company           : Razer Inc.
+Process Created On: 9/17/2023 3:26:17 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse 3.exe
+Process ID        : 14128
+Protocol          : TCP
+Local Port        : 49902
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3.exe
+Product Name      : Razer Synapse 3
+File Description  : Razer Synapse 3
+File Version      : 3.1.627.5
+Company           : Razer Inc.
+Process Created On: 9/17/2023 3:26:17 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse 3.exe
+Process ID        : 14128
+Protocol          : TCP
+Local Port        : 51379
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3.exe
+Product Name      : Razer Synapse 3
+File Description  : Razer Synapse 3
+File Version      : 3.1.627.5
+Company           : Razer Inc.
+Process Created On: 9/17/2023 3:26:17 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse Service Process.exe
+Process ID        : 11612
+Protocol          : TCP
+Local Port        : 49748
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\Service\..\UserProcess\Razer Synapse Service Process.exe
+Product Name      : Razer Synapse Service Process
+File Description  : Razer Synapse Service Process
+File Version      : 1.0.0.0
+Company           : 
+Process Created On: 9/17/2023 3:26:09 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse Service Process.exe
+Process ID        : 11612
+Protocol          : TCP
+Local Port        : 49718
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\Service\..\UserProcess\Razer Synapse Service Process.exe
+Product Name      : Razer Synapse Service Process
+File Description  : Razer Synapse Service Process
+File Version      : 1.0.0.0
+Company           : 
+Process Created On: 9/17/2023 3:26:09 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse Service Process.exe
+Process ID        : 11612
+Protocol          : TCP
+Local Port        : 49715
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\Service\..\UserProcess\Razer Synapse Service Process.exe
+Product Name      : Razer Synapse Service Process
+File Description  : Razer Synapse Service Process
+File Version      : 1.0.0.0
+Company           : 
+Process Created On: 9/17/2023 3:26:09 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse Service Process.exe
+Process ID        : 11612
+Protocol          : TCP
+Local Port        : 49712
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\Service\..\UserProcess\Razer Synapse Service Process.exe
+Product Name      : Razer Synapse Service Process
+File Description  : Razer Synapse Service Process
+File Version      : 1.0.0.0
+Company           : 
+Process Created On: 9/17/2023 3:26:09 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Razer Synapse Service Process.exe
+Process ID        : 11612
+Protocol          : TCP
+Local Port        : 49721
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 5426
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Program Files (x86)\Razer\Synapse3\Service\..\UserProcess\Razer Synapse Service Process.exe
+Product Name      : Razer Synapse Service Process
+File Description  : Razer Synapse Service Process
+File Version      : 1.0.0.0
+Company           : 
+Process Created On: 9/17/2023 3:26:09 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RiotClientServices.exe
+Process ID        : 8772
+Protocol          : TCP
+Local Port        : 58740
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : C:\Riot Games\Riot Client\RiotClientServices.exe
+Product Name      : RiotClient
+File Description  : Riot Client
+File Version      : 73.0.3.497
+Company           : Riot Games, Inc.
+Process Created On: 10/4/2023 6:34:25 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RiotClientServices.exe
+Process ID        : 8772
+Protocol          : TCP
+Local Port        : 58740
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 58852
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : C:\Riot Games\Riot Client\RiotClientServices.exe
+Product Name      : RiotClient
+File Description  : Riot Client
+File Version      : 73.0.3.497
+Company           : Riot Games, Inc.
+Process Created On: 10/4/2023 6:34:25 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RiotClientServices.exe
+Process ID        : 8772
+Protocol          : TCP
+Local Port        : 58739
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 58738
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : C:\Riot Games\Riot Client\RiotClientServices.exe
+Product Name      : RiotClient
+File Description  : Riot Client
+File Version      : 73.0.3.497
+Company           : Riot Games, Inc.
+Process Created On: 10/4/2023 6:34:25 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RiotClientServices.exe
+Process ID        : 8772
+Protocol          : TCP
+Local Port        : 58738
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 58739
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : C:\Riot Games\Riot Client\RiotClientServices.exe
+Product Name      : RiotClient
+File Description  : Riot Client
+File Version      : 73.0.3.497
+Company           : Riot Games, Inc.
+Process Created On: 10/4/2023 6:34:25 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RiotClientServices.exe
+Process ID        : 8772
+Protocol          : TCP
+Local Port        : 58744
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 58745
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : C:\Riot Games\Riot Client\RiotClientServices.exe
+Product Name      : RiotClient
+File Description  : Riot Client
+File Version      : 73.0.3.497
+Company           : Riot Games, Inc.
+Process Created On: 10/4/2023 6:34:25 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RiotClientServices.exe
+Process ID        : 8772
+Protocol          : TCP
+Local Port        : 58729
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 58728
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : C:\Riot Games\Riot Client\RiotClientServices.exe
+Product Name      : RiotClient
+File Description  : Riot Client
+File Version      : 73.0.3.497
+Company           : Riot Games, Inc.
+Process Created On: 10/4/2023 6:34:25 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RiotClientServices.exe
+Process ID        : 8772
+Protocol          : TCP
+Local Port        : 58728
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 58729
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : C:\Riot Games\Riot Client\RiotClientServices.exe
+Product Name      : RiotClient
+File Description  : Riot Client
+File Version      : 73.0.3.497
+Company           : Riot Games, Inc.
+Process Created On: 10/4/2023 6:34:25 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RiotClientServices.exe
+Process ID        : 8772
+Protocol          : TCP
+Local Port        : 58745
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 58744
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : C:\Riot Games\Riot Client\RiotClientServices.exe
+Product Name      : RiotClient
+File Description  : Riot Client
+File Version      : 73.0.3.497
+Company           : Riot Games, Inc.
+Process Created On: 10/4/2023 6:34:25 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RiotClientServices.exe
+Process ID        : 8772
+Protocol          : TCP
+Local Port        : 58713
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 58712
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : C:\Riot Games\Riot Client\RiotClientServices.exe
+Product Name      : RiotClient
+File Description  : Riot Client
+File Version      : 73.0.3.497
+Company           : Riot Games, Inc.
+Process Created On: 10/4/2023 6:34:25 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RiotClientServices.exe
+Process ID        : 8772
+Protocol          : TCP
+Local Port        : 58712
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 58713
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : C:\Riot Games\Riot Client\RiotClientServices.exe
+Product Name      : RiotClient
+File Description  : Riot Client
+File Version      : 73.0.3.497
+Company           : Riot Games, Inc.
+Process Created On: 10/4/2023 6:34:25 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RiotClientServices.exe
+Process ID        : 8772
+Protocol          : TCP
+Local Port        : 54839
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 104.18.24.250
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Riot Games\Riot Client\RiotClientServices.exe
+Product Name      : RiotClient
+File Description  : Riot Client
+File Version      : 73.0.3.497
+Company           : Riot Games, Inc.
+Process Created On: 10/4/2023 6:34:25 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RiotClientServices.exe
+Process ID        : 8772
+Protocol          : TCP
+Local Port        : 58746
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 58747
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : C:\Riot Games\Riot Client\RiotClientServices.exe
+Product Name      : RiotClient
+File Description  : Riot Client
+File Version      : 73.0.3.497
+Company           : Riot Games, Inc.
+Process Created On: 10/4/2023 6:34:25 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RiotClientServices.exe
+Process ID        : 8772
+Protocol          : TCP
+Local Port        : 58747
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 58746
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : C:\Riot Games\Riot Client\RiotClientServices.exe
+Product Name      : RiotClient
+File Description  : Riot Client
+File Version      : 73.0.3.497
+Company           : Riot Games, Inc.
+Process Created On: 10/4/2023 6:34:25 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RiotClientServices.exe
+Process ID        : 8772
+Protocol          : TCP
+Local Port        : 49931
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 5223
+Remote Port Name  : 
+Remote Address    : 172.65.250.49
+Remote Host Name  : 
+State             : Established
+Process Path      : C:\Riot Games\Riot Client\RiotClientServices.exe
+Product Name      : RiotClient
+File Description  : Riot Client
+File Version      : 73.0.3.497
+Company           : Riot Games, Inc.
+Process Created On: 10/4/2023 6:34:25 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RiotClientServices.exe
+Process ID        : 8772
+Protocol          : TCP
+Local Port        : 58847
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 58846
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : C:\Riot Games\Riot Client\RiotClientServices.exe
+Product Name      : RiotClient
+File Description  : Riot Client
+File Version      : 73.0.3.497
+Company           : Riot Games, Inc.
+Process Created On: 10/4/2023 6:34:25 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RiotClientServices.exe
+Process ID        : 8772
+Protocol          : TCP
+Local Port        : 58846
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 58847
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : C:\Riot Games\Riot Client\RiotClientServices.exe
+Product Name      : RiotClient
+File Description  : Riot Client
+File Version      : 73.0.3.497
+Company           : Riot Games, Inc.
+Process Created On: 10/4/2023 6:34:25 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RzChromaStreamServer.exe
+Process ID        : 5168
+Protocol          : TCP
+Local Port        : 13340
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : C:\Program Files (x86)\Razer Chroma SDK\bin\RzChromaStreamServer.exe
+Product Name      : Razer Chroma Stream Server
+File Description  : Razer Chroma Stream Server
+File Version      : 1.2.3.52
+Company           : Razer Inc.
+Process Created On: 9/17/2023 3:26:02 PM
+User Name         : NT AUTHORITY\SYSTEM
+Process Services  : Razer Chroma Stream Server
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RzChromaStreamServer.exe
+Process ID        : 5168
+Protocol          : TCP
+Local Port        : 13344
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : C:\Program Files (x86)\Razer Chroma SDK\bin\RzChromaStreamServer.exe
+Product Name      : Razer Chroma Stream Server
+File Description  : Razer Chroma Stream Server
+File Version      : 1.2.3.52
+Company           : Razer Inc.
+Process Created On: 9/17/2023 3:26:02 PM
+User Name         : NT AUTHORITY\SYSTEM
+Process Services  : Razer Chroma Stream Server
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RzSDKServer.exe
+Process ID        : 5180
+Protocol          : TCP
+Local Port        : 1337
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : C:\Program Files (x86)\Razer Chroma SDK\bin\RzSDKServer.exe
+Product Name      : Razer Chroma SDK REST Server
+File Description  : Razer Chroma SDK REST Server
+File Version      : 1.10.0.150
+Company           : Razer Inc.
+Process Created On: 9/17/2023 3:26:02 PM
+User Name         : NT AUTHORITY\SYSTEM
+Process Services  : Razer Chroma SDK Server
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RzSDKServer.exe
+Process ID        : 5180
+Protocol          : TCP
+Local Port        : 13337
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : C:\Program Files (x86)\Razer Chroma SDK\bin\RzSDKServer.exe
+Product Name      : Razer Chroma SDK REST Server
+File Description  : Razer Chroma SDK REST Server
+File Version      : 1.10.0.150
+Company           : Razer Inc.
+Process Created On: 9/17/2023 3:26:02 PM
+User Name         : NT AUTHORITY\SYSTEM
+Process Services  : Razer Chroma SDK Server
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RzSDKServer.exe
+Process ID        : 5180
+Protocol          : TCP
+Local Port        : 1337
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : C:\Program Files (x86)\Razer Chroma SDK\bin\RzSDKServer.exe
+Product Name      : Razer Chroma SDK REST Server
+File Description  : Razer Chroma SDK REST Server
+File Version      : 1.10.0.150
+Company           : Razer Inc.
+Process Created On: 9/17/2023 3:26:02 PM
+User Name         : NT AUTHORITY\SYSTEM
+Process Services  : Razer Chroma SDK Server
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : RzSDKServer.exe
+Process ID        : 5180
+Protocol          : TCP
+Local Port        : 13339
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : C:\Program Files (x86)\Razer Chroma SDK\bin\RzSDKServer.exe
+Product Name      : Razer Chroma SDK REST Server
+File Description  : Razer Chroma SDK REST Server
+File Version      : 1.10.0.150
+Company           : Razer Inc.
+Process Created On: 9/17/2023 3:26:02 PM
+User Name         : NT AUTHORITY\SYSTEM
+Process Services  : Razer Chroma SDK Server
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : steam.exe
+Process ID        : 15072
+Protocol          : TCP
+Local Port        : 27036
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : C:\Program Files (x86)\Steam\steam.exe
+Product Name      : Steam
+File Description  : Steam
+File Version      : 08.33.09.23
+Company           : Valve Corporation
+Process Created On: 9/17/2023 3:26:19 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : steam.exe
+Process ID        : 15072
+Protocol          : UDP
+Local Port        : 57529
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : C:\Program Files (x86)\Steam\steam.exe
+Product Name      : Steam
+File Description  : Steam
+File Version      : 08.33.09.23
+Company           : Valve Corporation
+Process Created On: 9/17/2023 3:26:19 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : steam.exe
+Process ID        : 15072
+Protocol          : UDP
+Local Port        : 27036
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : C:\Program Files (x86)\Steam\steam.exe
+Product Name      : Steam
+File Description  : Steam
+File Version      : 08.33.09.23
+Company           : Valve Corporation
+Process Created On: 9/17/2023 3:26:19 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : steam.exe
+Process ID        : 15072
+Protocol          : UDP
+Local Port        : 27036
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : C:\Program Files (x86)\Steam\steam.exe
+Product Name      : Steam
+File Description  : Steam
+File Version      : 08.33.09.23
+Company           : Valve Corporation
+Process Created On: 9/17/2023 3:26:19 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : steam.exe
+Process ID        : 15072
+Protocol          : TCP
+Local Port        : 27060
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : C:\Program Files (x86)\Steam\steam.exe
+Product Name      : Steam
+File Description  : Steam
+File Version      : 08.33.09.23
+Company           : Valve Corporation
+Process Created On: 9/17/2023 3:26:19 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : steam.exe
+Process ID        : 15072
+Protocol          : TCP
+Local Port        : 49833
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 49849
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : C:\Program Files (x86)\Steam\steam.exe
+Product Name      : Steam
+File Description  : Steam
+File Version      : 08.33.09.23
+Company           : Valve Corporation
+Process Created On: 9/17/2023 3:26:19 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : steam.exe
+Process ID        : 15072
+Protocol          : TCP
+Local Port        : 49833
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : C:\Program Files (x86)\Steam\steam.exe
+Product Name      : Steam
+File Description  : Steam
+File Version      : 08.33.09.23
+Company           : Valve Corporation
+Process Created On: 9/17/2023 3:26:19 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : steam.exe
+Process ID        : 15072
+Protocol          : TCP
+Local Port        : 49834
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 49846
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : C:\Program Files (x86)\Steam\steam.exe
+Product Name      : Steam
+File Description  : Steam
+File Version      : 08.33.09.23
+Company           : Valve Corporation
+Process Created On: 9/17/2023 3:26:19 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : steam.exe
+Process ID        : 15072
+Protocol          : TCP
+Local Port        : 49834
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : C:\Program Files (x86)\Steam\steam.exe
+Product Name      : Steam
+File Description  : Steam
+File Version      : 08.33.09.23
+Company           : Valve Corporation
+Process Created On: 9/17/2023 3:26:19 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : steam.exe
+Process ID        : 15072
+Protocol          : TCP
+Local Port        : 58705
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Established
+Process Path      : C:\Program Files (x86)\Steam\steam.exe
+Product Name      : Steam
+File Description  : Steam
+File Version      : 08.33.09.23
+Company           : Valve Corporation
+Process Created On: 9/17/2023 3:26:19 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: A
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 2192
+Protocol          : TCP
+Local Port        : 54227
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:33:18 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 21956
+Protocol          : UDP
+Local Port        : 5353
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:28:24 PM
+User Name         : NT AUTHORITY\SYSTEM
+Process Services  : NvContainerLocalSystem
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 72600
+Protocol          : TCP
+Local Port        : 54246
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/4/2023 8:31:12 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 2700
+Protocol          : UDP
+Local Port        : 5353
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:01 PM
+User Name         : NT AUTHORITY\NETWORK SERVICE
+Process Services  : Dnscache
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 53268
+Protocol          : UDP
+Local Port        : 5353
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/26/2023 8:45:53 AM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Spotify Premium
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 66376
+Protocol          : TCP
+Local Port        : 54268
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/9/2023 12:46:27 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 16092
+Protocol          : UDP
+Local Port        : 3838
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:21 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 59628
+Protocol          : TCP
+Local Port        : 54273
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : DoSvc
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 2192
+Protocol          : TCP
+Local Port        : 54280
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:33:18 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 12752
+Protocol          : UDP
+Local Port        : 2177
+Local Port Name   : qwave
+Local Address     : fe80::ab30:25c8:4382:5af3
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:22 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : QWAVE
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 53564
+Protocol          : TCP
+Local Port        : 54286
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/26/2023 8:45:53 AM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 53268
+Protocol          : TCP
+Local Port        : 54287
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/26/2023 8:45:53 AM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Spotify Premium
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 53564
+Protocol          : TCP
+Local Port        : 54288
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/26/2023 8:45:53 AM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 12484
+Protocol          : TCP
+Local Port        : 54292
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 50785
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:30:03 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : NVIDIA GeForce Overlay
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 2192
+Protocol          : TCP
+Local Port        : 54293
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:33:18 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 12752
+Protocol          : UDP
+Local Port        : 2177
+Local Port Name   : qwave
+Local Address     : fd5a:f44d:189b:430f:d8df:31b3:48be:e48a
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:22 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : QWAVE
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 80872
+Protocol          : TCP
+Local Port        : 54296
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 80
+Remote Port Name  : http
+Remote Address    : 52.216.205.186
+Remote Host Name  : s3-website-us-east-1.amazonaws.com
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/13/2023 3:47:21 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : heavy.ahk
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 2700
+Protocol          : UDP
+Local Port        : 58446
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:01 PM
+User Name         : NT AUTHORITY\NETWORK SERVICE
+Process Services  : Dnscache
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 2192
+Protocol          : TCP
+Local Port        : 55973
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 34.214.161.77
+Remote Host Name  : ec2-34-214-161-77.us-west-2.compute.amazonaws.com
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:33:18 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 53268
+Protocol          : TCP
+Local Port        : 56926
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/26/2023 8:45:53 AM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Spotify Premium
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 2192
+Protocol          : TCP
+Local Port        : 57609
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:33:18 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 53268
+Protocol          : TCP
+Local Port        : 57621
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/26/2023 8:45:53 AM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Spotify Premium
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 16092
+Protocol          : TCP
+Local Port        : 58051
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 3001
+Remote Port Name  : 
+Remote Address    : 66.206.5.74
+Remote Host Name  : 66-206-5-74.static.hvvc.us
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:21 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 68668
+Protocol          : TCP
+Local Port        : 58247
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 104.18.24.250
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/4/2023 6:34:32 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 72600
+Protocol          : TCP
+Local Port        : 54223
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/4/2023 8:31:12 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 16092
+Protocol          : UDP
+Local Port        : 60589
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:21 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 2700
+Protocol          : UDP
+Local Port        : 61244
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:01 PM
+User Name         : NT AUTHORITY\NETWORK SERVICE
+Process Services  : Dnscache
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 21956
+Protocol          : TCP
+Local Port        : 50784
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 65001
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:28:24 PM
+User Name         : NT AUTHORITY\SYSTEM
+Process Services  : NvContainerLocalSystem
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 2192
+Protocol          : TCP
+Local Port        : 49941
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 193.26.156.254
+Remote Host Name  : mail.rootonline.de
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:33:18 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 15984
+Protocol          : TCP
+Local Port        : 49849
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 49833
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:21 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 15984
+Protocol          : TCP
+Local Port        : 49846
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 49834
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:21 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 69628
+Protocol          : TCP
+Local Port        : 54193
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/4/2023 6:32:08 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 53564
+Protocol          : TCP
+Local Port        : 54180
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/26/2023 8:45:53 AM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 53564
+Protocol          : TCP
+Local Port        : 53898
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/26/2023 8:45:53 AM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 53564
+Protocol          : TCP
+Local Port        : 53896
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/26/2023 8:45:53 AM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 1384
+Protocol          : TCP
+Local Port        : 49678
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4476
+Protocol          : TCP
+Local Port        : 49671
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:02 PM
+User Name         : NT AUTHORITY\SYSTEM
+Process Services  : Spooler
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 1168
+Protocol          : TCP
+Local Port        : 49668
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:01 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : EventLog
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 2216
+Protocol          : TCP
+Local Port        : 49666
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:01 PM
+User Name         : NT AUTHORITY\SYSTEM
+Process Services  : Schedule
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 68668
+Protocol          : TCP
+Local Port        : 58852
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 58740
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/4/2023 6:34:32 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 68668
+Protocol          : TCP
+Local Port        : 58857
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 61209
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/4/2023 6:34:32 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 68668
+Protocol          : TCP
+Local Port        : 58857
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 61211
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/4/2023 6:34:32 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 68668
+Protocol          : TCP
+Local Port        : 58857
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/4/2023 6:34:32 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 54444
+Protocol          : TCP
+Local Port        : 59174
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 18.65.3.92
+Remote Host Name  : server-18-65-3-92.lax50.r.cloudfront.net
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/25/2023 4:54:50 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 54444
+Protocol          : TCP
+Local Port        : 59175
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 18.65.3.92
+Remote Host Name  : server-18-65-3-92.lax50.r.cloudfront.net
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/25/2023 4:54:50 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 72600
+Protocol          : TCP
+Local Port        : 60541
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 60542
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/4/2023 8:31:12 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 72600
+Protocol          : TCP
+Local Port        : 60542
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 60541
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/4/2023 8:31:12 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 16092
+Protocol          : TCP
+Local Port        : 60589
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:21 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 66376
+Protocol          : TCP
+Local Port        : 61209
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 58857
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/9/2023 12:46:27 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 66376
+Protocol          : TCP
+Local Port        : 61211
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 58857
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/9/2023 12:46:27 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 5028
+Protocol          : TCP
+Local Port        : 61231
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 40.83.240.146
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:02 PM
+User Name         : NT AUTHORITY\SYSTEM
+Process Services  : WpnService
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 72600
+Protocol          : TCP
+Local Port        : 63258
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 63259
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/4/2023 8:31:12 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 72600
+Protocol          : TCP
+Local Port        : 63259
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 63258
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/4/2023 8:31:12 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 21956
+Protocol          : TCP
+Local Port        : 65001
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:28:24 PM
+User Name         : NT AUTHORITY\SYSTEM
+Process Services  : NvContainerLocalSystem
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 21956
+Protocol          : TCP
+Local Port        : 65001
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 50784
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:28:24 PM
+User Name         : NT AUTHORITY\SYSTEM
+Process Services  : NvContainerLocalSystem
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 445
+Local Port Name   : microsoft-ds
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 75416
+Protocol          : TCP
+Local Port        : 53511
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 6112
+Remote Port Name  : 
+Remote Address    : 169.45.83.109
+Remote Host Name  : 6d.53.2da9.ip4.static.sl-reverse.com
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/13/2023 2:59:32 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Path of Exile
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 59628
+Protocol          : TCP
+Local Port        : 7680
+Local Port Name   : ms-do
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : DoSvc
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 54235
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 54236
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 22684
+Protocol          : UDP
+Local Port        : 123
+Local Port Name   : ntp
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:28:04 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : W32Time
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : UDP
+Local Port        : 137
+Local Port Name   : netbios-ns
+Local Address     : 10.10.1.10
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : UDP
+Local Port        : 138
+Local Port Name   : netbios-dgm
+Local Address     : 10.10.1.10
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 53268
+Protocol          : UDP
+Local Port        : 1900
+Local Port Name   : ssdp
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/26/2023 8:45:53 AM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Spotify Premium
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 16092
+Protocol          : UDP
+Local Port        : 1900
+Local Port Name   : ssdp
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:21 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 11576
+Protocol          : UDP
+Local Port        : 1900
+Local Port Name   : ssdp
+Local Address     : 10.10.1.10
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:05 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : SSDPSRV
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 11576
+Protocol          : UDP
+Local Port        : 1900
+Local Port Name   : ssdp
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:05 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : SSDPSRV
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 12752
+Protocol          : UDP
+Local Port        : 2177
+Local Port Name   : qwave
+Local Address     : 10.10.1.10
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:22 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : QWAVE
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 16092
+Protocol          : UDP
+Local Port        : 3838
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:21 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 7572
+Protocol          : UDP
+Local Port        : 5050
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:02 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : CDPSvc
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 2700
+Protocol          : UDP
+Local Port        : 5353
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:01 PM
+User Name         : NT AUTHORITY\NETWORK SERVICE
+Process Services  : Dnscache
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 53268
+Protocol          : UDP
+Local Port        : 5353
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/26/2023 8:45:53 AM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Spotify Premium
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 21956
+Protocol          : UDP
+Local Port        : 5353
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:28:24 PM
+User Name         : NT AUTHORITY\SYSTEM
+Process Services  : NvContainerLocalSystem
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 2700
+Protocol          : UDP
+Local Port        : 5355
+Local Port Name   : llmnr
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:01 PM
+User Name         : NT AUTHORITY\NETWORK SERVICE
+Process Services  : Dnscache
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 1308
+Protocol          : TCP
+Local Port        : 49665
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 24252
+Protocol          : UDP
+Local Port        : 10011
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:30:01 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 72600
+Protocol          : UDP
+Local Port        : 17500
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/4/2023 8:31:12 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 2192
+Protocol          : TCP
+Local Port        : 53449
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:33:18 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 2192
+Protocol          : TCP
+Local Port        : 51320
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 6263
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:33:18 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 16092
+Protocol          : UDP
+Local Port        : 52622
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:21 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 16092
+Protocol          : UDP
+Local Port        : 52623
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:21 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 11576
+Protocol          : UDP
+Local Port        : 57973
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:05 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : SSDPSRV
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 53268
+Protocol          : UDP
+Local Port        : 57621
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/26/2023 8:45:53 AM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Spotify Premium
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 16092
+Protocol          : UDP
+Local Port        : 57734
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:21 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4988
+Protocol          : UDP
+Local Port        : 57830
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:02 PM
+User Name         : NT AUTHORITY\SYSTEM
+Process Services  : iphlpsvc
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 11576
+Protocol          : UDP
+Local Port        : 57974
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:05 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : SSDPSRV
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 11576
+Protocol          : UDP
+Local Port        : 57975
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:05 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : SSDPSRV
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 16092
+Protocol          : UDP
+Local Port        : 60589
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:21 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 21552
+Protocol          : UDP
+Local Port        : 62982
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:28:25 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 21956
+Protocol          : UDP
+Local Port        : 62983
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:28:24 PM
+User Name         : NT AUTHORITY\SYSTEM
+Process Services  : NvContainerLocalSystem
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 53268
+Protocol          : UDP
+Local Port        : 63400
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/26/2023 8:45:53 AM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Spotify Premium
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 2700
+Protocol          : UDP
+Local Port        : 58446
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:01 PM
+User Name         : NT AUTHORITY\NETWORK SERVICE
+Process Services  : Dnscache
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 2700
+Protocol          : UDP
+Local Port        : 61244
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:01 PM
+User Name         : NT AUTHORITY\NETWORK SERVICE
+Process Services  : Dnscache
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 1632
+Protocol          : TCP
+Local Port        : 135
+Local Port Name   : epmap
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:00 PM
+User Name         : NT AUTHORITY\NETWORK SERVICE
+Process Services  : RpcEptMapper, RpcSs
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 445
+Local Port Name   : microsoft-ds
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 11576
+Protocol          : UDP
+Local Port        : 57972
+Local Port Name   : 
+Local Address     : fe80::ab30:25c8:4382:5af3
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:05 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : SSDPSRV
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 49712
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 49715
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 49718
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 49721
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 49748
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 49800
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 49902
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 49911
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 49915
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 49916
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 49922
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 49925
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 51379
+Remote Port Name  : 
+Remote Address    : ::1
+Remote Host Name  : 
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 59628
+Protocol          : TCP
+Local Port        : 7680
+Local Port Name   : ms-do
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : DoSvc
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 12484
+Protocol          : TCP
+Local Port        : 50990
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 50785
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:30:03 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : NVIDIA GeForce Overlay
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 72600
+Protocol          : TCP
+Local Port        : 17500
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/4/2023 8:31:12 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 1416
+Protocol          : TCP
+Local Port        : 49664
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:00 PM
+User Name         : NT AUTHORITY\SYSTEM
+Process Services  : EFS, KeyIso, SamSs, VaultSvc
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 1308
+Protocol          : TCP
+Local Port        : 49665
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 2216
+Protocol          : TCP
+Local Port        : 49666
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:01 PM
+User Name         : NT AUTHORITY\SYSTEM
+Process Services  : Schedule
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 1168
+Protocol          : TCP
+Local Port        : 49668
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:01 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : EventLog
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4476
+Protocol          : TCP
+Local Port        : 49671
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:02 PM
+User Name         : NT AUTHORITY\SYSTEM
+Process Services  : Spooler
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 5616
+Protocol          : TCP
+Local Port        : 49673
+Local Port Name   : 
+Local Address     : ::1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:02 PM
+User Name         : NT AUTHORITY\SYSTEM
+Process Services  : jhi_service
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 1384
+Protocol          : TCP
+Local Port        : 49678
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 1416
+Protocol          : TCP
+Local Port        : 49664
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:00 PM
+User Name         : NT AUTHORITY\SYSTEM
+Process Services  : EFS, KeyIso, SamSs, VaultSvc
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 47552
+Protocol          : TCP
+Local Port        : 51248
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/13/2023 2:59:39 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 47552
+Protocol          : TCP
+Local Port        : 51260
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Close Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/13/2023 2:59:39 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 72600
+Protocol          : TCP
+Local Port        : 17600
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/4/2023 8:31:12 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 72600
+Protocol          : TCP
+Local Port        : 17500
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/4/2023 8:31:12 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 16092
+Protocol          : UDP
+Local Port        : 57735
+Local Port Name   : 
+Local Address     : fd5a:f44d:189b:430f:3f04:eea8:ee66:6f02
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:21 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 53268
+Protocol          : TCP
+Local Port        : 50853
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 35.186.224.47
+Remote Host Name  : 47.224.186.35.bc.googleusercontent.com
+State             : Established
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/26/2023 8:45:53 AM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : Spotify Premium
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 5426
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 7572
+Protocol          : TCP
+Local Port        : 5040
+Local Port Name   : 
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:02 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : CDPSvc
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 2700
+Protocol          : UDP
+Local Port        : 5355
+Local Port Name   : llmnr
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:01 PM
+User Name         : NT AUTHORITY\NETWORK SERVICE
+Process Services  : Dnscache
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 72600
+Protocol          : TCP
+Local Port        : 843
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 10/4/2023 8:31:12 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 139
+Local Port Name   : netbios-ssn
+Local Address     : 10.10.1.10
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 1632
+Protocol          : TCP
+Local Port        : 135
+Local Port Name   : epmap
+Local Address     : 0.0.0.0
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 0.0.0.0
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:00 PM
+User Name         : NT AUTHORITY\NETWORK SERVICE
+Process Services  : RpcEptMapper, RpcSs
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 54235
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 4
+Protocol          : TCP
+Local Port        : 54236
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 16092
+Protocol          : TCP
+Local Port        : 60589
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : ::
+Remote Host Name  : 
+State             : Listening
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:21 PM
+User Name         : JUCARDI-PC\me
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 22684
+Protocol          : UDP
+Local Port        : 123
+Local Port Name   : ntp
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:28:04 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : W32Time
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 11576
+Protocol          : UDP
+Local Port        : 1900
+Local Port Name   : ssdp
+Local Address     : ::1
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:05 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : SSDPSRV
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 11576
+Protocol          : UDP
+Local Port        : 1900
+Local Port Name   : ssdp
+Local Address     : fe80::ab30:25c8:4382:5af3
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:05 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : SSDPSRV
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 12752
+Protocol          : UDP
+Local Port        : 2177
+Local Port Name   : qwave
+Local Address     : fd5a:f44d:189b:430f:3d33:77a2:1173:f5a
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:22 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : QWAVE
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 12752
+Protocol          : UDP
+Local Port        : 2177
+Local Port Name   : qwave
+Local Address     : fd5a:f44d:189b:430f:3f04:eea8:ee66:6f02
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:22 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : QWAVE
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 12752
+Protocol          : UDP
+Local Port        : 2177
+Local Port Name   : qwave
+Local Address     : fd5a:f44d:189b:430f:4424:c9c:ae36:75da
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:22 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : QWAVE
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 12752
+Protocol          : UDP
+Local Port        : 2177
+Local Port Name   : qwave
+Local Address     : fd5a:f44d:189b:430f:9541:3bb2:c930:5c5d
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:22 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : QWAVE
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 12752
+Protocol          : UDP
+Local Port        : 2177
+Local Port Name   : qwave
+Local Address     : fd5a:f44d:189b:430f:c474:8411:89d0:e379
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:22 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : QWAVE
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 12752
+Protocol          : UDP
+Local Port        : 2177
+Local Port Name   : qwave
+Local Address     : fd5a:f44d:189b:430f:c966:2241:38a9:ff43
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:22 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : QWAVE
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 12752
+Protocol          : UDP
+Local Port        : 2177
+Local Port Name   : qwave
+Local Address     : fd5a:f44d:189b:430f:d837:9c95:8586:e4f8
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:26:22 PM
+User Name         : NT AUTHORITY\LOCAL SERVICE
+Process Services  : QWAVE
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : System
+Process ID        : 21956
+Protocol          : UDP
+Local Port        : 62984
+Local Port Name   : 
+Local Address     : ::
+Remote Port       : 
+Remote Port Name  : 
+Remote Address    : 
+Remote Host Name  : 
+State             : 
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: 9/17/2023 3:28:24 PM
+User Name         : NT AUTHORITY\SYSTEM
+Process Services  : NvContainerLocalSystem
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 54284
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 54269
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 443
+Remote Port Name  : https
+Remote Address    : 172.64.105.35
+Remote Host Name  : 
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 54264
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 50785
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 54250
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 50785
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 54242
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 50785
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 50785
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 54291
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 50785
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 54279
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 50785
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 54278
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 50785
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 54263
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 50785
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 54249
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 50785
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 54241
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 50785
+Local Port Name   : 
+Local Address     : 127.0.0.1
+Remote Port       : 54222
+Remote Port Name  : 
+Remote Address    : 127.0.0.1
+Remote Host Name  : jucardi-pc
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
+==================================================
+Process Name      : Unknown
+Process ID        : 0
+Protocol          : TCP
+Local Port        : 54294
+Local Port Name   : 
+Local Address     : 10.10.1.10
+Remote Port       : 8118
+Remote Port Name  : 
+Remote Address    : 10.10.1.1
+Remote Host Name  : router
+State             : Time Wait
+Process Path      : 
+Product Name      : 
+File Description  : 
+File Version      : 
+Company           : 
+Process Created On: N/A
+User Name         : 
+Process Services  : 
+Process Attributes: 
+Added On          : 10/13/2023 3:47:22 PM
+Module Filename   : 
+Remote IP Country : 
+Window Title      : 
+==================================================
+
